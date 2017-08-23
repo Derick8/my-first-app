@@ -10,8 +10,7 @@ import { AssComponent } from './ass/ass.component';
   declarations: [
     AppComponent,
     ServerComponent,
-    ServersComponent,
-    AssComponent
+    ServersComponent
   ],
   imports: [
     BrowserModule,

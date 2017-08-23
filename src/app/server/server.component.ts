@@ -6,9 +6,12 @@ import{ Component } from '@angular/core';
 })
 
 export class ServerComponent{
-olala=10;
-asd='pinged';
+serverID: number=10;
+asd='pingedc';
 	
+	getServerStatus(){
+	return this.asd;
+	}
 }
 
 
