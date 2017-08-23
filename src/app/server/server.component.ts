@@ -6,6 +6,8 @@ import{ Component } from '@angular/core';
 })
 
 export class ServerComponent{
+olala=10;
+asd='pinged';
 	
 }
 
